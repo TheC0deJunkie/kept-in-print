@@ -1,9 +1,18 @@
 # Kept In Print
 
-Turns a WhatsApp chat export into a printed keepsake book. Live at
-[keptinprint.co.za](https://keptinprint.co.za).
+Turns a WhatsApp chat export into a printed keepsake book.
 
-![screenshot](docs/screenshot.jpg)
+![Kept In Print editions](docs/books.webp)
+
+<table>
+<tr>
+<td width="50%"><img src="docs/book-cover.png" alt="A generated book cover"><br><sub>Cover, generated from the chat</sub></td>
+<td width="50%"><img src="docs/rendered-page.png" alt="A typeset page"><br><sub>A printed page — voice-note waveforms, reactions, read receipts, the real doodle wallpaper</sub></td>
+</tr>
+<tr>
+<td colspan="2"><img src="docs/studio.jpg" alt="The Kept In Print Studio"><br><sub>The Studio: a chat being typeset into a book</sub></td>
+</tr>
+</table>
 
 It started as a one-off gift: take a couple's chat history, lay it out so it still looks like
 WhatsApp, and get it bound. The hard part was never the parsing. It was making a printed page look
